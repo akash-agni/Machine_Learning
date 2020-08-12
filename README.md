@@ -1,7 +1,8 @@
-# Classical_Machine_Learning
+# Machine_Learning
 Hi!!
-This Repository is built to share Intresting projects and analysis done with classical machine learning algorithms.
+Building a repository to learn as well as share and preserve my journey of machine learning landscape.
+The ideas is to implement what I am learning and create addition tasks to work on.
+I will be posting new notebook every week, and will update them as often as I can.
+Also with each notebook I will share some addition tasks that I will work on in future, but feel free to fork and attempt those tasks yourself.
 
-In the world of Deep Learning it might seem that the relevence of these algorithms might have reduced,
-but for simpler and more intutive datasets, they are still very much critical.
-Through these projects I wish to learn and also share awarness on the importance of these classical algorithms.
+Happy Learning Guys!!
