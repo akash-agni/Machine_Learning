@@ -22,6 +22,6 @@ Keep an eye on the Repo!
   <li>Create new Virtual Enviroment for Execution : python -m venv myenv</li>
   <li>Activate the Virtual Enviroment : <b>Linux</b>>>source activate myenv : <b>Windows</b>>>.\myenv\scripts\activate.bat</li>
   <li>execute the file : python image_classifier.py</li>
-<ol>
+</ol>
 
 Hope you enjoy playing around with this code, as much as I did writing it.
