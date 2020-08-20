@@ -7,7 +7,7 @@ Also with each notebook I will share some addition tasks that I will work on in 
 
 Happy Learning Guys!!
 
-# Image Classifier Leve 1
+## Image Classifier Level 1
 Part of Convolutional Learning Project
 Python/tensorflow based application for Image classifican tasks.
 ResNet50 implemented, trained on 'ImageNet' Data for 1000 clases.
