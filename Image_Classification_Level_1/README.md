@@ -13,7 +13,7 @@ Keep an eye on the Repo!
   <li>Trained over 1000 classes of imagenet</li>
   <li>Url link provided as Input through "ImageFilePath.txt" file</li>
   <li>Output is through formated Command Line</li>
-</li>
+</ul>
 
 <h2>Setup Instructions</h2>
 <ol>
